@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=25&duration=3000&pause=1000&color=179CF7&width=435&lines=Greetings!+I'm+James+Lee;Full+Stack+Software+Engineer+in+LA;Checkout+my+projects+below!)](https://git.io/typing-svg)
 
 <!--
 **jameswonlee/jameswonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
