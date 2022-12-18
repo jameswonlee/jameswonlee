@@ -2,7 +2,7 @@
 
 ## My languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,react,redux,express,flask,postgres,sqlite,html,css,heroku,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,nodejs,react,redux,express,flask,postgres,sqlite,html,css,heroku,git,github,vscode)](https://skillicons.dev)
 
 ## Let's connect!
 
