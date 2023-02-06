@@ -4,14 +4,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,py,react,redux,express,flask,postgres,sqlite,html,css,heroku,git,github,vscode)](https://skillicons.dev)
 
+## Portfolio
+[james-lee.io](https://jameswonlee.github.io/#)
+
 ## Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameswonlee/)
 [![Angellist](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/james-lee-217)
 
-
-## Portfolio:
-[james-lee.io](https://jameswonlee.github.io/#)
 
 <!--
 **jameswonlee/jameswonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
