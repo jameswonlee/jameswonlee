@@ -9,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameswonlee/)
 [![Angellist](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/james-lee-217)
 
+
+## Portfolio:
 [james-lee.io](https://jameswonlee.github.io/#)
 
 <!--
