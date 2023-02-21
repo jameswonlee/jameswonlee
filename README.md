@@ -4,8 +4,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,py,react,redux,express,flask,postgres,sqlite,html,css,heroku,git,github,vscode)](https://skillicons.dev)
 
-## Portfolio
-[james-lee.io](https://james-lee.io)
+<!-- ## Portfolio
+[james-lee.io](https://james-lee.io) -->
 
 ## Let's connect!
 
