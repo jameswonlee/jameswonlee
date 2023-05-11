@@ -2,7 +2,7 @@
 
 ## My languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,py,react,redux,express,flask,postgres,sqlite,html,css,heroku,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,py,react,redux,express,flask,postgres,sqlite,html,css,heroku,git,vscode)](https://skillicons.dev)
 
 <!-- ## Portfolio
 [james-lee.io](https://james-lee.io) -->
