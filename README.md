@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=26&duration=3000&pause=1000&color=15A3F7&width=435&lines=Hello+World!+I'm+James+Lee;Full+Stack+Software+Engineer+in+LA;Checkout+my+projects+below!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=26&duration=3000&pause=1000&color=15A3F7&width=435&lines=Hello+World!+I'm+James+Lee;Full+Stack+Software+Engineer+in+LA;Check+out+my+projects+below!)](https://git.io/typing-svg)
 
 ## My languages and tools
 
